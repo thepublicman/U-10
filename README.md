@@ -12,7 +12,8 @@ Hedef Kitle
 
 İletişim süreçleri: Discord kanalımızı ve Whatsapp grubumuzu oluşturduk 11 Haziran 18:00 tarihinde tekrar toplantı düzenleyeceğiz.
 
-Takım elemanları
+Takım üyeleri
+
 Ali Umut Koçoğlu: Product Owner - Developer
 
 Kadir Can Değirmenci: Scrum Master - Developer
