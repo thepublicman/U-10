@@ -10,6 +10,8 @@ U - 10
 Hedef Kitle
 18-65 yaş arası, korku ve hikaye oyunlarına ilgil duyan, bulmaca elementlerini beğenen ve özellikle arkadaşlarıyla oyun oynamayı seven oyuncuları hedeflemekteyiz.
 
+İletişim süreçleri: Discord kanalımızı ve Whatsapp grubumuzu oluşturduk 11 Haziran 18:00 tarihinde tekrar toplantı düzenleyeceğiz.
+
 Takım elemanları
 Ali Umut Koçoğlu: Product Owner - Developer
 
