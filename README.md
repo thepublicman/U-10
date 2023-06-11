@@ -12,9 +12,13 @@ Hedef Kitle
 
 Takım elemanları
 Ali Umut Koçoğlu: Product Owner - Developer
+
 Kadir Can Değirmenci: Scrum Master - Developer
+
 Buket Özkan: Developer
+
 Rabia Çalık: Developer
+
 Alican Arslan Developer
 
 Ürün İsmi:
