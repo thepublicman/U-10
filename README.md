@@ -1,7 +1,8 @@
 # GOOGLE ACADEMY BOOTCAMP
 
 # Takım İsmi;
-Takım Unity U - 10
+
+BAKAR GAMES (Unity -10)
 
 # Oyun İle İlgili Bilgiler
 
