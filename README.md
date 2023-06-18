@@ -57,7 +57,12 @@ Tüm kararlar ekibimizce alınmıştır, her üye fikir olarak oyuna katkı da b
 
 Sprint Review: Alınan kararlar: Oyun içi elementlere karar verildi, Asset seçimleri genel anlamda tamamlandı, bulmaca kod yazılımı başladı her üye 1'er adet bulmaca kod ve tasarım sürecini üstelenecek, Sprint toplantılara tüm üyeler katılmıştır.
 
-Sprint Retrospective: Kod yazılım süreçlerinin hızlandırılması için geri bildirimler yapılmıştır.
+Sprint Retrospective: 
+Product Owner ve Scrum Master görevleri atandı, 
+
+Kod yazılım süreçlerinin hızlandırılması için geri bildirimler yapılmıştır. 
+
+Asset seçimleriyle ilgili toplantı tamamlandı, Asset seçim süreci kararlaştırıldı
 
 Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/invite/b/ncjgYVfI/ATTI951ada689609acb906ae44c1609e0a1553CD494A/bootcamp)
 
