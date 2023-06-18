@@ -1,7 +1,7 @@
 # GOOGLE ACADEMY BOOTCAMP
 
 # Takım İsmi;
-Takım Unitty U - 10
+Takım Unity U - 10
 
 # Oyun İle İlgili Bilgiler
 
