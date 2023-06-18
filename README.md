@@ -1,18 +1,11 @@
-# U-10
-GOOGLE ACADEMY BOOTCAMP
+# GOOGLE ACADEMY BOOTCAMP
 
 # Takım İsmi;
-U - 10
+Takım Unitty U - 10
 
-Ürün ile ilgili bilgiler;
-3D çok oyunculu hikaye ve bulmaca öğeleri barındıran korku oyunu geliştireceğiz, konu ve tasarım süreçleri için 5 Haziran ve 7 Haziranda toplantı yapıldı
+# Oyun İle İlgili Bilgiler
 
-Hedef Kitle
-18-65 yaş arası, korku ve hikaye oyunlarına ilgil duyan, bulmaca elementlerini beğenen ve özellikle arkadaşlarıyla oyun oynamayı seven oyuncuları hedeflemekteyiz.
-
-İletişim süreçleri: Discord kanalımızı ve Whatsapp grubumuzu oluşturduk 11 Haziran 18:00 tarihinde tekrar toplantı düzenleyeceğiz. 11 Haziran toplantısı yapıldı geri bildirim notları alındı.
-
-Takım üyeleri
+# Takım üyeleri
 
 Ali Umut Koçoğlu: Product Owner - Developer
 
@@ -24,5 +17,38 @@ Rabia Çalık: Developer
 
 Alican Arslan Developer
 
-Ürün İsmi:
+# Oyun açıklaması
+, 3D çok oyunculu hikaye ve bulmaca öğeleri barındıran korku oyunudur, Korku evinde gerçekleştirecek oyun tasarım süreçleri oyuncuya korku, gerilim ve macera duygularını hissettirmeyi amaçlamaktadır. Korku oyununda korkutan veya korkan oyuncuları oynayabileceksiniz, Ayrıca oyuna farklı mekanikler eklemeyi planlamaktayız, Hedefimiz korku oyunlarına ilgil duyan, arkadaşlarıyla oyun oynamayı seven oyun severleri oyunumuzda keyifli vakit geçirmelerini sağlamak ve ilgili duyguları aşılayabilmek. Korku oyunun detaylı bir hikaye altyapısı olacaktır ve bulmacaların hikayeyi anlatma da önemli etkisi bulunacaktır.
+Oyunun birinci fonksiyonu: Korku, gerilim ve macera duygularını hissettirmek
+Oyunun ikinci fonksiyonu: Bulmaca elementleriyle oyunun hikayesini anlatabilmek ve kurtulmak için çaba sarf ettirmek.
+
+# Oyun Özellikleri
+
+3D tasarım yönetimi kullanılacak Unity üzerinden gerçekleştirilecektir.
+
+Çok oyunculu 1 düşman 4 ana karakter oynanabilecek şekilde üretilmesi planlanmaktadır
+
+Korku, gerilim ve macera öğeleri oyunun ana amacıdır.
+
+Bulmaca elementleri oyunun hikaye tabanını anlatacaktır ayrıca bulmaca çözülüp düşman karakterden kaçma ve kurtulma hissi aşılanacaktır.
+
+#  Hedef Kitle
+18-65 yaş arası, korku ve hikaye oyunlarına ilgil duyan, bulmaca elementlerini beğenen ve özellikle arkadaşlarıyla oyun oynamayı seven oyuncuları hedeflemekteyiz.
+
+
+
+# Juriye Not
+Tüm kararlar ekibimizce alınmıştır, her üye fikir olarak oyuna katkı da bulunmuştur, bugüne kadar planlanan tüm tarihlerde toplantı yapılmıştır.
+
+İletişim süreçleri: Discord kanalımızı ve Whatsapp grubumuzu oluşturduk 11 Haziran 18:00 tarihinde tekrar toplantı düzenleyeceğiz. 11 Haziran toplantısı yapıldı geri bildirim notları alındı. 17 Haziran için toplantı planlandı. Toplantı başarıyla gerçekleştirildi ve resmi olarak kodlama sürecinde ilerleme kaydedildi.
+
+# Sprint 1
+
+
+![Screenshot_2](https://github.com/thepublicman/U-10/assets/130177562/a561db0a-9daf-484b-b25d-1236db83f9af)
+
+
+
+
+
 
