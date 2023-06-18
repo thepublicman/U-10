@@ -47,7 +47,13 @@ Tüm kararlar ekibimizce alınmıştır, her üye fikir olarak oyuna katkı da b
 
 ![Screenshot_2](https://github.com/thepublicman/U-10/assets/130177562/a561db0a-9daf-484b-b25d-1236db83f9af)
 
+# Ürün Durumu
 
+Sprint Review: Alınan kararlar: Oyun içi elementlere karar verildi, Asset seçimleri genel anlamda tamamlandı, bulmaca kod yazılımı başladı her üye 1'er adet bulmaca kod ve tasarım sürecini üstelenecek, Sprint toplantılara tüm üyeler katılmıştır.
+
+Sprint Retrospective: Kod yazılım süreçlerinin hızlandırılması için geri bildirimler yapılmıştır.
+
+Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/invite/b/ncjgYVfI/ATTI951ada689609acb906ae44c1609e0a1553CD494A/bootcamp)
 
 
 
