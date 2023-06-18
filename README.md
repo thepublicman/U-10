@@ -35,6 +35,12 @@ Bulmaca elementleri oyunun hikaye tabanını anlatacaktır ayrıca bulmaca çöz
 #  Hedef Kitle
 18-65 yaş arası, korku ve hikaye oyunlarına ilgil duyan, bulmaca elementlerini beğenen ve özellikle arkadaşlarıyla oyun oynamayı seven oyuncuları hedeflemekteyiz.
 
+# Oyun Tasarım Belgesi
+
+
+[U-10 Oyun Tasarım Süreçleri.pdf](https://github.com/thepublicman/U-10/files/11780858/U-10.Oyun.Tasarim.Surecleri.pdf)
+
+
 
 
 # Juriye Not
