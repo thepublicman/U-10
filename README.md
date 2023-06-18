@@ -1,7 +1,7 @@
 # U-10
 GOOGLE ACADEMY BOOTCAMP
 
-Takım İsmi;
+# Takım İsmi;
 U - 10
 
 Ürün ile ilgili bilgiler;
