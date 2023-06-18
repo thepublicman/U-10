@@ -17,8 +17,12 @@ Rabia Çalık: Developer
 
 Alican Arslan Developer
 
+# Oyun İsmi
+
+--Feeling of Fear (FOF)--
+
 # Oyun açıklaması
-, 3D çok oyunculu hikaye ve bulmaca öğeleri barındıran korku oyunudur, Korku evinde gerçekleştirecek oyun tasarım süreçleri oyuncuya korku, gerilim ve macera duygularını hissettirmeyi amaçlamaktadır. Korku oyununda korkutan veya korkan oyuncuları oynayabileceksiniz, Ayrıca oyuna farklı mekanikler eklemeyi planlamaktayız, Hedefimiz korku oyunlarına ilgil duyan, arkadaşlarıyla oyun oynamayı seven oyun severleri oyunumuzda keyifli vakit geçirmelerini sağlamak ve ilgili duyguları aşılayabilmek. Korku oyunun detaylı bir hikaye altyapısı olacaktır ve bulmacaların hikayeyi anlatma da önemli etkisi bulunacaktır.
+Feeling of Fear (FOF), 3D çok oyunculu hikaye ve bulmaca öğeleri barındıran korku oyunudur, Korku evinde gerçekleştirecek oyun tasarım süreçleri oyuncuya korku, gerilim ve macera duygularını hissettirmeyi amaçlamaktadır. Korku oyununda korkutan veya korkan oyuncuları oynayabileceksiniz, Ayrıca oyuna farklı mekanikler eklemeyi planlamaktayız, Hedefimiz korku oyunlarına ilgil duyan, arkadaşlarıyla oyun oynamayı seven oyun severleri oyunumuzda keyifli vakit geçirmelerini sağlamak ve ilgili duyguları aşılayabilmek. Korku oyunun detaylı bir hikaye altyapısı olacaktır ve bulmacaların hikayeyi anlatma da önemli etkisi bulunacaktır.
 Oyunun birinci fonksiyonu: Korku, gerilim ve macera duygularını hissettirmek
 Oyunun ikinci fonksiyonu: Bulmaca elementleriyle oyunun hikayesini anlatabilmek ve kurtulmak için çaba sarf ettirmek.
 
@@ -49,11 +53,25 @@ Tüm kararlar ekibimizce alınmıştır, her üye fikir olarak oyuna katkı da b
 İletişim süreçleri: Discord kanalımızı ve Whatsapp grubumuzu oluşturduk 11 Haziran 18:00 tarihinde tekrar toplantı düzenleyeceğiz. 11 Haziran toplantısı yapıldı geri bildirim notları alındı. 17 Haziran için toplantı planlandı. Toplantı başarıyla gerçekleştirildi ve resmi olarak kodlama sürecinde ilerleme kaydedildi.
 
 # Sprint 1
+Sprint içinde tamamlanması tahmin edilen öngörü: 125 puan
 
+Puan tamamlama mantığı: Sprint başına 125 puana bölünmüş 375 puanlık backlog bulunmaktadır. İlk sprint hedefi bu nedenle 125 puandır.
 
+Daily Sucrum: Daily Scrumlar genellikle Whatsapp üzerinden yapılmıştır, Her hafta ortalama 2 kez uzun ve detaylı Discord üzerinden toplantılar tamamlanmıştır
+
+Sprint board update;
 ![Screenshot_2](https://github.com/thepublicman/U-10/assets/130177562/a561db0a-9daf-484b-b25d-1236db83f9af)
 
 # Ürün Durumu
+
+![Ekran_goruntusu_2023-06-18_144906](https://github.com/thepublicman/U-10/assets/130177562/e3191ad9-d135-4b3e-ae55-c5d4ba7bace6)
+
+
+![Ekran_goruntusu_2023-06-18_144950](https://github.com/thepublicman/U-10/assets/130177562/b9dda9a2-8716-414a-9156-7fb12b5695d3)
+
+
+![Ekran_goruntusu_2023-06-18_145130](https://github.com/thepublicman/U-10/assets/130177562/67a41205-09b1-4e5a-9454-5a6d217a51de)
+
 
 Sprint Review: Alınan kararlar: Oyun içi elementlere karar verildi, Asset seçimleri genel anlamda tamamlandı, bulmaca kod yazılımı başladı her üye 1'er adet bulmaca kod ve tasarım sürecini üstelenecek, Sprint toplantılara tüm üyeler katılmıştır.
 
