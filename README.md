@@ -85,6 +85,15 @@ Asset seçimleriyle ilgili toplantı tamamlandı, Asset seçim süreci kararlaş
 
 Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/invite/b/ncjgYVfI/ATTI951ada689609acb906ae44c1609e0a1553CD494A/bootcamp)
 
+Daily Scrums - Communication Scrums
+
+![Screenshot_1](https://github.com/thepublicman/U-10/assets/130177562/bb407e3b-935b-4179-8397-090107d00503)
+
+![Screenshot_2](https://github.com/thepublicman/U-10/assets/130177562/228850e0-1119-45ed-811f-7c025c3a6632)
+
+
+
+
 
 
 
