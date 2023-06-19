@@ -91,6 +91,7 @@ Daily Scrums - Communication Scrums
 
 ![Screenshot_2](https://github.com/thepublicman/U-10/assets/130177562/228850e0-1119-45ed-811f-7c025c3a6632)
 
+![Screenshot_3](https://github.com/thepublicman/U-10/assets/130177562/dbb9b335-04d7-4de1-95ba-6df6d62d10cd)
 
 
 
