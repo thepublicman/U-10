@@ -119,6 +119,8 @@ Sprint Board Update: Sprint 2 Ekran görüntüleri;
 
 ![Ekran_goruntusu_2023-07-01_145148](https://github.com/thepublicman/U-10/assets/130177562/8f830845-bdf6-48d1-bc60-4d2c04d46251)
 
+Sprint Notu: Takım ile iletişim süreçlerimiz verimli ama daha sık olmalı. Sprint özelinde bayram arası nedeniyle süreçler aksadı. Oyunun önemli noktaları tamamlansa da 35 puan geri kalmamız ek süreçler getirecektir.
+
 Sprint Review: Alınan kararlar: Oyun panel tasarımlarını Buket ve Rabia üstlendi, Oyun dilinin ingilizce olmasına karar verildi. Takım ismi ve oyun adı netleştirildi
 
 Sprint Retrospective:
