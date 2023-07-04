@@ -98,8 +98,9 @@ Daily Scrums - Communication Scrums
 
 Sprint içinde tamamlanması tahmin edilen puan: 125 puan
 
-Daily Scrum: Bayram nedeniyle Daily scrum ve diğer toplantılar aksadı, sprint puanı tahmin edilenin altında kalarak 90 puana ulaşıldı.
-Eksik kalan 35 puan Sprint 3'e atanacaktır.
+Daily Scrum: Bayram nedeniyle Daily scrum ve diğer toplantılar aksadı, Toplantılar ertelendi veya yapılamadı. Genellikle mesajlaşma üzerinden görüşmeler yapıldı.
+
+Puan tamamlama mantığı: Sprint puanı tahmin edilenin altında kalarak 90 puana ulaşıldı. Backlog puanı 215 puan olmuştur. Eksik kalan 35 puan Sprint 3'e atanacaktır.
 
 ![Daily Scrums](https://github.com/thepublicman/U-10/assets/130177562/f87125e1-2b4b-4c96-8ffe-6b20f3edcbb7)
 
