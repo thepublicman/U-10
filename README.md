@@ -153,7 +153,7 @@ Sprint board update: Sprint board screenshotları:
 
 Sprint Notu: Online oyun yapısı hariç tüm sprint görevleri başarıyla tamamlandı. Online oyun dönüşümü proje süresi nedeniyle tamamlanamadı.
 
-Sprint Review: Oyun eksik bulmacaları tamamlandı, asset çalışmaları tamamlandı. Yapılan işlerin tek proje üzerinde birleştirilmesi tamamlandı. Sprint Review katılımcıları: Tüm üyeler katılmıştır: Ali Umut Koçoğlu: Product Owner - Developer Kadir Can Değirmenci: Scrum Master - Developer Buket Özkan: Developer Rabia Çalık: Developer Alican Arslan Developer
+Sprint Review: Oyun eksik bulmacaları tamamlandı, asset çalışmaları tamamlandı. Yapılan işlerin tek proje üzerinde birleştirilmesi tamamlandı. Oyun içerikleri değerlendirildi. Sprint Review katılımcıları: Tüm üyeler katılmıştır: Ali Umut Koçoğlu: Product Owner - Developer Kadir Can Değirmenci: Scrum Master - Developer Buket Özkan: Developer Rabia Çalık: Developer Alican Arslan Developer
 
 Sprint Retrospective:
 
