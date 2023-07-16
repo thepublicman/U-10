@@ -148,6 +148,16 @@ Sprint board update: Sprint board screenshotları:
 
 Ürün Durumu Ekran Görüntüleri;
 
+![u-10_Project_-_StartMenu_-_Windows_Mac_Linux_-_Unity_2022 3 3f1___DX11__16 07 2023_23_48_45](https://github.com/thepublicman/U-10/assets/130177562/754cdaa5-0c9b-48f2-82ba-0846797a8884)
+
+
+
+![u-10_Project_-_StartMenu_-_Windows_Mac_Linux_-_Unity_2022 3 3f1___DX11__16 07 2023_23_25_57](https://github.com/thepublicman/U-10/assets/130177562/588dbf02-ba43-4d50-baad-47b0eb5ff729)
+
+
+
+![u-10_Project_-_StartMenu_-_Windows_Mac_Linux_-_Unity_2022 3 3f1___DX11__16 07 2023_23_50_38](https://github.com/thepublicman/U-10/assets/130177562/9651e044-4e17-4ee6-8e1c-340afa0f5df8)
+
 
 
 
