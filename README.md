@@ -108,7 +108,7 @@ Sprint Board Update: Sprint 2 Ekran görüntüleri;
 
 ![SPRINT 2](https://github.com/thepublicman/U-10/assets/130177562/b449e1e4-b44d-4baf-bbd6-9b87bd2cf535)
 
-Ürün Durumu Ekran Görüntüleri;
+
 
 ![Ekran_goruntusu_2023-07-01_144840](https://github.com/thepublicman/U-10/assets/130177562/5ebcc2c7-8bc2-4dd6-a4be-5bd6e5a92941)
 
@@ -132,7 +132,33 @@ Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/in
 
 
 
+# Sprint 3
+
+Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 35 puanın da eklenmesiyle bu sprint için toplam puan: 160'dır. 
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmişti. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ![Screenshot_36](https://github.com/thepublicman/U-10/assets/130177562/81b2b0ec-889c-42b2-bc1e-c267d43b188d) ![Screenshot_37](https://github.com/thepublicman/U-10/assets/130177562/3635e855-6a0b-43bd-bfb3-b2654fc6aeef)
 
 
+Sprint board update: Sprint board screenshotları:
+
+![Screenshot_34](https://github.com/thepublicman/U-10/assets/130177562/63dd9a4c-0859-4c0e-b7f4-85cb3cccf6f0)
+
+![Screenshot_35](https://github.com/thepublicman/U-10/assets/130177562/c66780eb-75b2-469e-8e32-f296b851f096)
+
+Ürün Durumu Ekran Görüntüleri;
+
+
+
+
+Sprint Notu: Online oyun yapısı hariç tüm sprint görevleri başarıyla tamamlandı. Online oyun dönüşümü proje süresi nedeniyle tamamlanamadı.
+
+Sprint Review: Oyun eksik bulmacaları tamamlandı, asset çalışmaları tamamlandı. Yapılan işlerin tek proje üzerinde birleştirilmesi tamamlandı. Sprint Review katılımcıları: Tüm üyeler katılmıştır: Ali Umut Koçoğlu: Product Owner - Developer Kadir Can Değirmenci: Scrum Master - Developer Buket Özkan: Developer Rabia Çalık: Developer Alican Arslan Developer
+
+Sprint Retrospective:
+
+Proje'nin ardından online oyun süreçleri hakkında detaylı çalışma yapılması kararlaştırıldı.
+
+Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/invite/b/ncjgYVfI/ATTI951ada689609acb906ae44c1609e0a1553CD494A/bootcamp)
 
 
