@@ -159,6 +159,9 @@ Sprint Retrospective:
 
 Proje'nin ardından online oyun süreçleri hakkında detaylı çalışma yapılması kararlaştırıldı.
 
+Juriye Not:
+Bayram arasına kadar mükemmele yakın çalıştık ancak bayram arası proje sürecine olumsuz etki de bulunmuştur. Bayram sonrası elimizden gelen tüm çabayı gösterdik. Tüm ekip arkadaşlarımı Scrum Master olarak tebrik ederim.
+
 Game Backlog URL: [https://trello.com/b/ncjgYVfI/bootcamp](https://trello.com/invite/b/ncjgYVfI/ATTI951ada689609acb906ae44c1609e0a1553CD494A/bootcamp)
 
 
