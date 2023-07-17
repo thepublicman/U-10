@@ -40,6 +40,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.3f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\RabiaCalisma\Script\StartMenu.cs" />
+     <Compile Include="Assets\RabiaCalisma\Script\Passcode.cs" />
+     <Compile Include="Assets\RabiaCalisma\Script\DoorEvents.cs" />
+     <Compile Include="Assets\Keypad\Script\Playsound.cs" />
+     <Compile Include="Assets\RabiaCalisma\Script\KupEtkilesim.cs" />
      <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />

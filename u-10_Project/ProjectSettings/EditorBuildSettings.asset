@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RabiaCalisma/StartMenu.unity
+    guid: 61deb01490f0aa84890d1808921ac438
+  - enabled: 1
+    path: Assets/RabiaCalisma/Scene.unity
+    guid: 98ddbc63ad629104ebc965f5a4fb5014
+  - enabled: 1
+    path: Assets/Keypad/Demo.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
   m_configObjects: {}
